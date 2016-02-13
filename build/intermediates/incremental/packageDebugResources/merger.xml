@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/home/udaysingh/android-studio-projects/PageCurl/numandroidpagecurleffect/src/main/res"/><source path="/home/udaysingh/android-studio-projects/PageCurl/numandroidpagecurleffect/build/generated/res/rs/debug"/><source path="/home/udaysingh/android-studio-projects/PageCurl/numandroidpagecurleffect/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/home/udaysingh/android-studio-projects/PageCurl/numandroidpagecurleffect/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/home/udaysingh/android-studio-projects/PageCurl/numandroidpagecurleffect/src/main/res"><file path="/home/udaysingh/android-studio-projects/PageCurl/numandroidpagecurleffect/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="PageCurlView">
+		<!-- Enable/Disable debug mode -->
+		<attr format="boolean" name="enableDebugMode"/>
+		<!-- Curl speed  the animation moves in px/frame -->
+		<attr format="integer" name="curlSpeed"/>		
+		<!-- FPS our animation will run -->
+		<attr format="integer" name="updateRate"/>		
+		<!-- Pixel offset the page will have from the curl edge -->
+		<attr format="integer" name="initialEdgeOffset"/>
+		<!-- The curl mode to apply -->
+		<attr name="curlMode">
+			<enum name="Simple" value="0"/>
+			<enum name="Dynamic" value="1"/>
+		</attr>
+	</declare-styleable></file><file path="/home/udaysingh/android-studio-projects/PageCurl/numandroidpagecurleffect/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">NumAndroidPageCurlEffect</string></file></source><source path="/home/udaysingh/android-studio-projects/PageCurl/numandroidpagecurleffect/build/generated/res/rs/debug"/><source path="/home/udaysingh/android-studio-projects/PageCurl/numandroidpagecurleffect/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/home/udaysingh/android-studio-projects/PageCurl/numandroidpagecurleffect/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="PageCurlView"><attr format="boolean" name="enableDebugMode"/><attr format="integer" name="curlSpeed"/><attr format="integer" name="updateRate"/><attr format="integer" name="initialEdgeOffset"/><attr name="curlMode"><enum name="Simple" value="0"/><enum name="Dynamic" value="1"/></attr></declare-styleable></configuration></mergedItems></merger>

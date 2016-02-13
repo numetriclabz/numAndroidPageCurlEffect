@@ -1,0 +1,6 @@
+-classpath '/home/udaysingh/Android/Sdk/platforms/android-23/android.jar'
+-d '/home/udaysingh/android-studio-projects/PageCurl/numandroidpagecurleffect/build/docs/javadoc'
+-doctitle 'numandroidpagecurleffect 1.0 API'
+-quiet 
+-windowtitle 'numandroidpagecurleffect 1.0 API'
+'/home/udaysingh/android-studio-projects/PageCurl/numandroidpagecurleffect/src/main/java/app/num/numandroidpagecurleffect/PageCurlView.java'

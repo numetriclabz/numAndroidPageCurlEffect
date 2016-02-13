@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PageCurlView"><attr format="boolean" name="enableDebugMode"/><attr format="integer" name="curlSpeed"/><attr format="integer" name="updateRate"/><attr format="integer" name="initialEdgeOffset"/><attr name="curlMode"><enum name="Simple" value="0"/><enum name="Dynamic" value="1"/></attr></declare-styleable>
+    <string name="app_name">NumAndroidPageCurlEffect</string>
+</resources>
